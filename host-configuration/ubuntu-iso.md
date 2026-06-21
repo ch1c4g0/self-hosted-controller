@@ -1,5 +1,5 @@
 
-<p><h1>Ubuntu ISO can be found below</h1></p>
+<p><h1>Ubuntu ISO Download</h1></p>
 
 <p>Local Download: https://ubuntu.com/download/server</p>
 
