@@ -36,6 +36,8 @@ sudo ./path-to-installer
 Unifi OS Server is running at: https://000.000.000.000:11443/
 ```
 
+<p>You can now access your UniFi Server from your browser within your LAN.</p>
+
 **<p>I'd recommend you also add your local user to the UOS group on the server so you can perform commands locally.</p**
 
 ```
