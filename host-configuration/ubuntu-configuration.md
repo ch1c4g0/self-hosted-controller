@@ -4,7 +4,7 @@
 1. Select your language
 2. Select Keyboard layout & Variant
 3. Server selection: Ubuntu Server
-4. Configure interface: Enter an IP Address for your machine (192.168.1.109/24 for me)
+4. Configure interface: Enter an IP Address for your machine (192.168.1.112/24 for me)
 5. Proxy address -- SKIP
 6. Mirror Address: Default
 7. Storage layout: Defualt
